@@ -51,6 +51,12 @@ header .author {
 header h3 {
   font-family: "Karantina", system-ui;
   font-size: 5vw;
+  background-image: url(images/John.jpg);
+  text-align: center;
+  /* background-position: top; */
+  background-repeat: no-repeat;
+  background-clip: text;
+  color: transparent;
 }
 header .author div {
   display: flex;
