@@ -34,6 +34,11 @@ header h1 {
   font-family: "Karantina", system-ui;
   font-size: 10vw;
   line-height: 0.8em;
+  background-image: url(images/txt.jpeg);
+  background-clip: text;
+  background-repeat: no-repeat;
+  text-align: center;
+  color: transparent;
 }
 header .author {
   text-align: right;
